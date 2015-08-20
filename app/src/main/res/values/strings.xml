@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="synchronize_btn">Synchronize</string>
+    <string name="back_btn">Back</string>
+</resources>
